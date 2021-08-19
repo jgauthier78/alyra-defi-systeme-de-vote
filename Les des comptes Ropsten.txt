@@ -1,0 +1,8 @@
+Lites des comptes Ropsten à utiliser pour le défi Système de Vote
+
+0 - 0x258637a58e1439Aa0B1EBCa339477A795C8e6f50
+1 - 0x7617B1d595f97EE8f48948c2C13D30E95D47f57d <- propriétaire du smart contract
+2 - 0x7B2BAE73C8d28De08d4eF80135Ef7697F802aAc3
+3 - 0x9633f7BC33820dB7BaD4D3e09BA464513F633a18
+4 - 0x44828f1129c82dcddc12aCd6e4940A181222bbB1 <- volontairement non enregistré dans la liste des votants
+5 - 0xeA3D1d49b9057c84500A4bf8dd737754784cae90 <- fera partie des votants mais compte à 0 ETH

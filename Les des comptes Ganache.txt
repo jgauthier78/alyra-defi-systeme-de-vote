@@ -1,0 +1,11 @@
+Lites des comptes Ropsten à utiliser pour le défi Système de Vote
+
+0 - Account 1 - 0x1a1812A21248D769cE68C85c69a25a7092B26D82 <- propriétaire du smart contract
+1 - Account 2 - 0x0606622EfD3ac7C856BAEFad719Bb5F1BC20C8b3
+2 - Account 3 - 0xe7848540064234A724820431D986A015544233D6
+3 - Account 4 - 0x21E9943A15C38dBb4B4526A8014F1D159abE01d3
+4 - Account 5 - 0xa32043b59A290CcA1a4E6CacAcAddDEC47433d4C <- volontairement non enregistré dans la liste des votants
+5 - Account 6 - 0xb81C57005Ea71E1494Db1Cc292dA86CA9Aed9bdC
+6 - Account 7 - 0x5aD9e6e6b82B8E3FF6b48C4d6C77A822b19c50B0
+7 - Account 8 - 0x2dfC485cd3AC12269B1d2571A5cE5b34a98Ac112
+8 - Account 9 - 0xf946d2E1cDdFbfDecfE3B0cf96641c32bce5fba6
