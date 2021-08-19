@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/alyra-defi-systeme-de-vote/static/css/main.b100e6da.chunk.css",
+    "main.js": "/alyra-defi-systeme-de-vote/static/js/main.a9c5f0d6.chunk.js",
+    "main.js.map": "/alyra-defi-systeme-de-vote/static/js/main.a9c5f0d6.chunk.js.map",
+    "runtime-main.js": "/alyra-defi-systeme-de-vote/static/js/runtime-main.655d764d.js",
+    "runtime-main.js.map": "/alyra-defi-systeme-de-vote/static/js/runtime-main.655d764d.js.map",
+    "static/css/2.32e6ede2.chunk.css": "/alyra-defi-systeme-de-vote/static/css/2.32e6ede2.chunk.css",
+    "static/js/2.ed5ad089.chunk.js": "/alyra-defi-systeme-de-vote/static/js/2.ed5ad089.chunk.js",
+    "static/js/2.ed5ad089.chunk.js.map": "/alyra-defi-systeme-de-vote/static/js/2.ed5ad089.chunk.js.map",
+    "index.html": "/alyra-defi-systeme-de-vote/index.html",
+    "precache-manifest.31b366b502dc3094a23861370f098b48.js": "/alyra-defi-systeme-de-vote/precache-manifest.31b366b502dc3094a23861370f098b48.js",
+    "service-worker.js": "/alyra-defi-systeme-de-vote/service-worker.js",
+    "static/css/2.32e6ede2.chunk.css.map": "/alyra-defi-systeme-de-vote/static/css/2.32e6ede2.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/alyra-defi-systeme-de-vote/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.655d764d.js",
+    "static/css/2.32e6ede2.chunk.css",
+    "static/js/2.ed5ad089.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a9c5f0d6.chunk.js"
+  ]
+}
