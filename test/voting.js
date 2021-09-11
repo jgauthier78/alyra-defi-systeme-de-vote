@@ -7,12 +7,21 @@ contract("Voting", accounts => {
     const VotingInstance = await Voting.deployed();
 
     // Register accounts[1]
-    await VotingInstance.registerVoters(accounts[1], { from: accounts[0] });
+    let tx = await VotingInstance.registerVoters(accounts[1], { from: accounts[0] });
 
     // Get stored value
     const registeredVoter = await VotingInstance.getVoter(accounts[1], { from: accounts[0] });
 
     assert.equal(registeredVoter.isRegistered, true, "accounts[1] was not registered.");
+    
+    // VoterAdded event should be emitted
+    truffleAssert.eventEmitted(tx, 'VoterAdded', (evt) => {
+      return evt.voter === accounts[1];
+    });
+
+    // there should be no WorkflowStatusChange event
+    truffleAssert.eventNotEmitted(tx, 'WorkflowStatusChange');
+
   });
 
   it("...should NOT register twice accounts[1].", async () => {
